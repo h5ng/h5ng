@@ -1,7 +1,8 @@
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=h5ng&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/h5ng"
-  width="600"
-  height="300"
-/>
-</a>
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/715861532562808785/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
